@@ -1,3 +1,23 @@
+body {
+	background: #000;
+	color: red;
+}
+
 .container {
-	padding: 25px;
+	padding: 24px;
+}
+.container .box-m{
+	font-size: 24px;
+	padding: 14px;
+}
+.container .foot {
+	background: url(../img/sw.jpg) no-repeat;
+	width: 350px;
+	height: 235px;
+	background-size: cover;
+	display: block;
+	-webkit-filter: blur(1px);
+	filter: blur(1px);
+	margin: 0 auto;
+	border-radius: 4px;
 }
