@@ -1,23 +1,44 @@
 body {
-	background: #000;
-	color: red;
+	background: #fafafa;
+	color: #ddd;
 }
 
 .container {
-	padding: 24px;
+	padding: 0;
+	margin: 0;
 }
-.container .box-m{
-	font-size: 24px;
-	padding: 14px;
-}
-.container .foot {
-	background: url(../img/sw.jpg) no-repeat;
-	width: 350px;
-	height: 235px;
-	background-size: cover;
-	display: block;
-	-webkit-filter: blur(1px);
-	filter: blur(1px);
-	margin: 0 auto;
+
+.container .box {
+	width: auto;
+	margin: 20px;
+	border: none;
 	border-radius: 4px;
+	background: #fff;
+}
+
+.container .box .title {
+	font-size: 18px;
+	color: #000;
+	font-weight: 600;
+	height: auto;
+	line-height: 28px;
+	text-indent: 20px;
+}
+
+.container .box .sub {
+	font-size: 14px;
+	color: #6c6c6c;
+	font-weight: 600;
+	height: auto;
+	line-height: 22px;
+	text-indent: 22px;
+}
+
+.container .box .img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	border-radius: 4px;
+	padding: 4px;
+	margin: 24px;
 }
