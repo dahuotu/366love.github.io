@@ -113,20 +113,7 @@ var app = new Vue({
 		},
 		goProduct: function(id) {
 			// 去订单详情
-			location.href = 'product.html?id=' + id;
-		},
-		loadProduct: function(id) {
-			// 去订单详情
-			$.ajax({
-				type: 'get',
-				url: 'product/' + id + '.html',
-				dataType: "text",
-				success: function(res) {
-					if(res != null) {
-						app.dataPage = res;
-					}
-				}
-			});
+			location.href = 'tel:13922371126';
 		},
 		getQueryString: function(name) {
 			var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");

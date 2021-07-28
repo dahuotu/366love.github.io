@@ -2,106 +2,22 @@
 	"code": "1",
 	"data": [{
 		"id": "1",
-		"title": "GTL001 自动化软管",
+		"title": "国际快递",
 		"subtitle": "PUSH -ON HOSE",
 		"remark": "免卡箍紧固、RMA高等级耐油、耐磨、耐曲饶、耐温120℃、适用于户外苛刻环境，超强耐用性",
 		"banner": "//www.hzgtl.com/repository/image/KxblIpYiSr-1nSpmcfUatg.jpg"
 	}, {
 		"id": "2",
-		"title": "GTL002 高温软管/自锁式",
+		"title": "国际空运",
 		"subtitle": "HIGH TEMPERATURE HOSE",
 		"remark": "耐高温、带自锁式、免卡箍紧固耐",
 		"banner": "//www.hzgtl.com/repository/image/TaWv8GjaQkOvdrqzIYRCLw.jpg"
 	}, {
 		"id": "3",
-		"title": "GTL003 防火多用途管/自锁式",
-		"subtitle": "MULTI-PURPOSE HOSE",
-		"remark": "防火、带自锁式、免卡箍紧固、耐油、耐磨、耐曲绕、超强耐用性",
-		"banner": "//www.hzgtl.com/repository/image/imQ1yquKTmmzQebsuoM4KQ.jpg"
-	}, {
-		"id": "4",
-		"title": "GTL004 超低温干冰管 ",
+		"title": "国际海运 ",
 		"subtitle": "DRY ICE HOSE",
 		"remark": "超耐低温、低温下柔软性、超耐磨、防静电",
 		"banner": "//www.hzgtl.com/repository/image/oKt_7gecRTyxBD27GGZkEQ.jpg"
-	}, {
-		"id": "5",
-		"title": "GTL005 防静电多用途管",
-		"subtitle": "ANTISTATIC HOSE",
-		"remark": "耐油、耐磨、防静电、超强耐用性",
-		"banner": "//www.hzgtl.com/repository/image/tJ92IyXVR0qhx2Jjc5c51A.jpg"
-	}, {
-		"id": "6",
-		"title": "GTL006 冷却软管",
-		"subtitle": "COOLING HOSE",
-		"remark": "符合 PAHS-2、REACH、ROHS、纯水冷却系统 、清洁环保",
-		"banner": "//www.hzgtl.com/repository/image/GuDfw2IAR7C486H9cqIT0w.jpg"
-	}, {
-		"id": "7",
-		"title": "GTL 007 防静电油管",
-		"subtitle": "OIL FUEL HOSE",
-		"remark": "防静电、耐磨抗老化、安全可靠",
-		"banner": "//www.hzgtl.com/repository/image/NOtmla2TQsCSiKe0S7CAsQ.jpg"
-	}, {
-		"id": "8",
-		"title": "GTL008 6KV无碳管",
-		"subtitle": "CARBON FREE HOSE",
-		"remark": "高绝缘、耐电压6KV、水冷电缆、感应电炉专用",
-		"banner": "//www.hzgtl.com/repository/image/KOGVXP4eSy-yvhR_TTcB8g.jpg"
-	}, {
-		"id": "9",
-		"title": "GTL009 10KV无碳管",
-		"subtitle": "CARBON FREE HOSE",
-		"remark": "纯净无碳、高绝缘、耐电压10KV、水冷电缆、还原感应电炉专用",
-		"banner": "//www.hzgtl.com/repository/image/Q12AYiIGRLOu_iD29RgoLQ.jpg"
-	}, {
-		"id": "10",
-		"title": "GTL010 15KV无碳管",
-		"subtitle": "CARBON FREE HOSE",
-		"remark": "纯净无碳、高绝缘、耐电压15KV、水冷电缆、还原感应电炉专用",
-		"banner": "//www.hzgtl.com/repository/image/ytZAjsUzTTO9LmxGLS2bWA.jpg"
-	}, {
-		"id": "11",
-		"title": "GTL011 高温排吸管",
-		"subtitle": "HIGH TEMPERATURE HOSE",
-		"remark": "耐高温、防静电、耐负压、排吸用",
-		"banner": "//www.hzgtl.com/repository/image/rpOMKYUbTCyKlqlgv-eZrA.jpg"
-	}, {
-		"id": "12",
-		"title": "GTL012 汽车尿素管",
-		"subtitle": "DEF DISPENSING HOSE",
-		"remark": "清洁环保、无离子析出，保护尿素液纯洁",
-		"banner": "//www.hzgtl.com/repository/image/Kmnjh23cTGidOZIzUr75pg.jpg"
-	}, {
-		"id": "13",
-		"title": "GTL013 排吸油管",
-		"subtitle": "OIL FUEL HOSE",
-		"remark": "防静电、弯曲半径小、耐负压、排吸用",
-		"banner": "//www.hzgtl.com/repository/image/MW3MKpFURKWw-jagFfYS9Q.jpg"
-	}, {
-		"id": "14",
-		"title": "GTL014 食品级热水管",
-		"subtitle": "FOOD HOT WATER HOSE",
-		"remark": "FDA食品级、清洁环保、柔软、耐磨、耐油脂",
-		"banner": "//www.hzgtl.com/repository/image/wJnkS_ggTgyl_Ix5VDYPQg.jpg"
-	}, {
-		"id": "15",
-		"title": "GTL015 食品排吸管",
-		"subtitle": "FOOD HOSE NBR",
-		"remark": "FDA食品级、清洁环保、耐负压、排吸用",
-		"banner": "//www.hzgtl.com/repository/image/92d3gmR8SDm67MVD5qke5A.jpg"
-	}, {
-		"id": "16",
-		"title": "GTL016 165℃食品级蒸汽管",
-		"subtitle": "FOOD STEAM HOSE 165℃",
-		"remark": "FDA食品级、清洁环保、柔软",
-		"banner": "//www.hzgtl.com/repository/image/nsIte5IdQGuvaVkR0HUxFg.jpg"
-	}, {
-		"id": "17",
-		"title": "GTL017 165 ℃ 食品排吸管",
-		"subtitle": "FOOD HOSE EPDM",
-		"remark": "FDA食品级、清洁环保、耐高温、耐负压、排吸用",
-		"banner": "//www.hzgtl.com/repository/image/tDilOGw7QxKlFIBSHpQ01w.jpg"
 	}],
 	"msg": "成功"
 }
