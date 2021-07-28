@@ -5,19 +5,19 @@
 		"title": "国际快递",
 		"subtitle": "PUSH -ON HOSE",
 		"remark": "免卡箍紧固、RMA高等级耐油、耐磨、耐曲饶、耐温120℃、适用于户外苛刻环境，超强耐用性",
-		"banner": "//www.hzgtl.com/repository/image/KxblIpYiSr-1nSpmcfUatg.jpg"
+		"banner": "img/1.jpg"
 	}, {
 		"id": "2",
 		"title": "国际空运",
 		"subtitle": "HIGH TEMPERATURE HOSE",
 		"remark": "耐高温、带自锁式、免卡箍紧固耐",
-		"banner": "//www.hzgtl.com/repository/image/TaWv8GjaQkOvdrqzIYRCLw.jpg"
+		"banner": "img/2.jpg"
 	}, {
 		"id": "3",
 		"title": "国际海运 ",
 		"subtitle": "DRY ICE HOSE",
 		"remark": "超耐低温、低温下柔软性、超耐磨、防静电",
-		"banner": "//www.hzgtl.com/repository/image/oKt_7gecRTyxBD27GGZkEQ.jpg"
+		"banner": "img/3.jpg"
 	}],
 	"msg": "成功"
 }
