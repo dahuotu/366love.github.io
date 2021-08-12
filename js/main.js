@@ -110,27 +110,6 @@ var app = new Vue({
 					}
 				}
 			});
-			$.ajax({
-				type: "POST",
-				url: "https://dahuotu.niugd.com/logs/add",
-				data: {
-					"Page": location.href,
-					"DealerId": "www366lovecom",
-					"ErrorTime": "",
-					"ErrorIP": "127.0.0.1",
-					"ErrorMsg": "null"
-				},
-				dataType: "JSON",
-				success: function(rep) {
-					console.log(rep);
-					if(rep.code == "0") {
-						//成功
-						console.log(rep.data);
-					} else {
-						//失败
-					}
-				},
-			});
 		},
 		goProduct: function(id) {
 			// 去订单详情
